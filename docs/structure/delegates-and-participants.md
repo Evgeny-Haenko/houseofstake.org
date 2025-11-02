@@ -21,7 +21,7 @@ Anyone holding veNEAR can participate in governance directly — by voting, subm
 
 Participants can:
 
-- Self-delegate or choose a delegate
+- Choose a delegate
 - Submit improvement proposals (grants, rules, experiments)
 - Join discussions in public governance forums
 
